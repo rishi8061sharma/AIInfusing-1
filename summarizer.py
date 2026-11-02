@@ -1,5 +1,4 @@
 import os
-from openai import OpenAI
 from pathlib import Path
 from dotenv import load_dotenv
 from scraper import fetch_website_contents
